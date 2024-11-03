@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanxmay
 - 👀 I’m interested in all cool things
-- 🌱 I’m currently learning cybersecurity, web tech and rust
+- 🌱 I’m currently learning llm, web tech and rust
 - 📫 Feel free to concat me! alan.xmay@gmail.com
 
 <!---
